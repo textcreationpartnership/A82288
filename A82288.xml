@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble presentation of Richard Delamain the younger, to the right honorable House of Peers, assembled in Parliament.</title>
+            <author>Delamain, Richard, fl. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82288</idno>
+            <idno type="STC">Wing D864</idno>
+            <idno type="STC">Thomason 669.f.4[71]</idno>
+            <idno type="STC">ESTC R6695</idno>
+            <idno type="EEBO-CITATION">99873025</idno>
+            <idno type="PROQUEST">99873025</idno>
+            <idno type="VID">160693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160693)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[71])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble presentation of Richard Delamain the younger, to the right honorable House of Peers, assembled in Parliament.</title>
+                  <author>Delamain, Richard, fl. 1654.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>1 sheet ([1]  p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. for I. Wright, and I. Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproductions of the originals in the Bodleian Library (Early English Books) and the British Library (Thomason Tracts).</note>
+                  <note>With an order to print by the House of Lords signed: Jo. Browne Cleric. Parliamentor.</note>
+                  <note>Includes: A table shewing instantly by the eye the number of acres belonging to any summe of money according to the rate setled by Parliament upon any of the lands within the foure provinces of Ireland: ..</note>
+                  <note>A table of land values per acre in Ulster, Conaght, Munster, and Lempster.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allotment of land --  Ireland --  Early works to 1800.</term>
+               <term>Land subdivision --  Law and legislation --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  Economic conditions --  Statistics --  Sources</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:160693:1" rendition="simple:additions"/>
+            <head>THE HVMBLE PRESENTATION OF Richard Delamain the yonger, To the Right Honourable the Houſe of Peeres, aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Order of Parliament the ſeverall Rates of Lands in the foure Provinces of <hi>Ireland</hi> with the Rents reſerved unto the Crowne, are lately publiſhed for Information of ſuch perſons as ſhall become undertakers therein; But for that there is nothing yet extant for the helpe of ſuch perſons by way of computation as may anſwer all ſummes of money according to the ſeverall rates in each Province that ſhall be disburſed for any number of Acres: Under favour of this Honourable Houſe, for the eaſe and ſpeedy ſatisfaction of all ſuch as ſhall undertake, I humbly preſent a Table whereby it may inſtantly appeare what number of Acres in any of the ſeverall Provinces will ariſe from any ſumme of money propoſed; or what monies are to be disburſed for any number of Acres deſired, with the rents reſerved to the King accor<g ref="char:EOLhyphen"/>ding to the quantity, in any of the ſaid Provinces. All which is done by an inſpection on this Table: Which in all humility is preſen<g ref="char:EOLhyphen"/>ted herewith to the view and approbation of your Honours, if it ſhall be held fit for the common uſe herein, by Order of the Houſe, it may be publiſhed with an illuſtration annext thereto, as a ſhort deſcription and application thereof.</p>
+            <div type="table_of_acreage">
+               <head>A TABLE Shewing inſtantly by the eye the number of Acres belonging to any ſumme of Money according to the Rate ſetled by Parliament upon any of the Lands within the foure Pro<g ref="char:EOLhyphen"/>vinces of <hi>Ireland:</hi> or what ſumme of money is to be disburſed for any number of Acres, aſſigned; and what the yeerely Rent reſerved for the King amounteth unto, for any number of Acres in any of the four Provinces.</head>
+               <head type="sub">As alſo a Table to reduce any number of Iriſh Acres of 21 foot to the Pole, into Statute Acres of 16. foot and a halfe to the Pole: Or any number of Engliſh Acres propoſed, to finde what number of Iriſh Acres they make. All performed by an Inſpection on the Table calculated by <hi>Richard Delamain:</hi> And Dedicated to the High and Honourable Court of PARLIAMENT.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell cols="4">ULSTER.</cell>
+                        <cell cols="4">CONAGHT.</cell>
+                        <cell cols="4">MUNSTER.</cell>
+                        <cell cols="4">LEMPSTER.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Pounds Acres.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Acres.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Pounds.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Kings Rent.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Pounds. Acres.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Acres.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Pounds.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Kings rent.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Pounds. Acres.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Acres.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Pounds.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Kings rent.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Pounds. Acres.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Acres.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Pounds.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Kings rent.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>5</cell>
+                        <cell>4 s.</cell>
+                        <cell>0-00-1</cell>
+                        <cell>1</cell>
+                        <cell>3 1/3</cell>
+                        <cell>0-6 s.</cell>
+                        <cell>0-00-1½</cell>
+                        <cell>1</cell>
+                        <cell>2 2/9</cell>
+                        <cell>0 l. 0 s.</cell>
+                        <cell>0-00-02</cell>
+                        <cell>1</cell>
+                        <cell>1⅔</cell>
+                        <cell>12 s.</cell>
+                        <cell>0-00-3</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>25</cell>
+                        <cell>1 l.</cell>
+                        <cell>0-00-5</cell>
+                        <cell>5</cell>
+                        <cell>16 2/3</cell>
+                        <cell>1-10</cell>
+                        <cell>0-00-7½</cell>
+                        <cell>5</cell>
+                        <cell>11 1/9</cell>
+                        <cell>2-5</cell>
+                        <cell>0-00-10</cell>
+                        <cell>5</cell>
+                        <cell>8 1/<gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>3 l.</cell>
+                        <cell>0-01-3</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>50</cell>
+                        <cell>2</cell>
+                        <cell>0-00-10</cell>
+                        <cell>10</cell>
+                        <cell>33</cell>
+                        <cell>3 l.</cell>
+                        <cell>0 01-3</cell>
+                        <cell>10</cell>
+                        <cell>22</cell>
+                        <cell>4-10</cell>
+                        <cell>0 01-8</cell>
+                        <cell>10</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>0-02-6</cell>
+                     </row>
+                     <row>
+                        <cell>50</cell>
+                        <cell>250</cell>
+                        <cell>10</cell>
+                        <cell>0-04-2</cell>
+                        <cell>50</cell>
+                        <cell>166</cell>
+                        <cell>15</cell>
+                        <cell>0-06-3</cell>
+                        <cell>50</cell>
+                        <cell>111</cell>
+                        <cell>22-10</cell>
+                        <cell>0-08-4</cell>
+                        <cell>50</cell>
+                        <cell>83</cell>
+                        <cell>30</cell>
+                        <cell>0-12-6</cell>
+                     </row>
+                     <row>
+                        <cell>100</cell>
+                        <cell>500</cell>
+                        <cell>20</cell>
+                        <cell>0-08 4</cell>
+                        <cell>100</cell>
+                        <cell>333</cell>
+                        <cell>30</cell>
+                        <cell>0 12-6</cell>
+                        <cell>100</cell>
+                        <cell>222</cell>
+                        <cell>45 <hi>l.</hi>
+                        </cell>
+                        <cell>0-16-8</cell>
+                        <cell>100</cell>
+                        <cell>166</cell>
+                        <cell>60</cell>
+                        <cell>1-05-0</cell>
+                     </row>
+                     <row>
+                        <cell>500</cell>
+                        <cell>2500</cell>
+                        <cell>100</cell>
+                        <cell>2-01-8</cell>
+                        <cell>500</cell>
+                        <cell>1666</cell>
+                        <cell>150</cell>
+                        <cell>3-02-6</cell>
+                        <cell>500</cell>
+                        <cell>1111</cell>
+                        <cell>225</cell>
+                        <cell>4-03-4</cell>
+                        <cell>500</cell>
+                        <cell>833</cell>
+                        <cell>300</cell>
+                        <cell>6-05-0</cell>
+                     </row>
+                     <row>
+                        <cell>1000</cell>
+                        <cell>5000</cell>
+                        <cell>200</cell>
+                        <cell>4-03-4</cell>
+                        <cell>1000</cell>
+                        <cell>3333</cell>
+                        <cell>300</cell>
+                        <cell>6-05-0</cell>
+                        <cell>1000</cell>
+                        <cell>2222</cell>
+                        <cell>450</cell>
+                        <cell>8-06 8</cell>
+                        <cell>1000</cell>
+                        <cell>1666</cell>
+                        <cell>600</cell>
+                        <cell>12-10-0</cell>
+                     </row>
+                     <row>
+                        <cell>5000</cell>
+                        <cell>25000</cell>
+                        <cell>1000</cell>
+                        <cell>20-16-8</cell>
+                        <cell>5000</cell>
+                        <cell>16666</cell>
+                        <cell>1500</cell>
+                        <cell>31-05-0</cell>
+                        <cell>5000</cell>
+                        <cell>11111</cell>
+                        <cell>2250</cell>
+                        <cell>41-13-4</cell>
+                        <cell>5000</cell>
+                        <cell>8333</cell>
+                        <cell>3000</cell>
+                        <cell>62-10-0</cell>
+                     </row>
+                     <row>
+                        <cell>10000</cell>
+                        <cell>50000</cell>
+                        <cell>2000</cell>
+                        <cell>41-13-4</cell>
+                        <cell>10000</cell>
+                        <cell>33333</cell>
+                        <cell>3000</cell>
+                        <cell>62-10-0</cell>
+                        <cell>10000</cell>
+                        <cell>22222</cell>
+                        <cell>4500</cell>
+                        <cell>83-06-8</cell>
+                        <cell>10000</cell>
+                        <cell>16666</cell>
+                        <cell>6000</cell>
+                        <cell>125-00-0</cell>
+                     </row>
+                     <row>
+                        <cell>50000</cell>
+                        <cell>250000</cell>
+                        <cell>10000</cell>
+                        <cell>208-06-8</cell>
+                        <cell>50000</cell>
+                        <cell>166666</cell>
+                        <cell>15000</cell>
+                        <cell>312-10-0</cell>
+                        <cell>50000</cell>
+                        <cell>111111</cell>
+                        <cell>22500</cell>
+                        <cell>416-13-4</cell>
+                        <cell>50000</cell>
+                        <cell>83333</cell>
+                        <cell>30000</cell>
+                        <cell>625-00-0</cell>
+                     </row>
+                     <row>
+                        <cell>100000</cell>
+                        <cell>500000</cell>
+                        <cell>20000</cell>
+                        <cell>416-13-4</cell>
+                        <cell>100000</cell>
+                        <cell>333333</cell>
+                        <cell>30000</cell>
+                        <cell>625-00-0</cell>
+                        <cell>100000</cell>
+                        <cell>222222</cell>
+                        <cell>45000</cell>
+                        <cell>833-06-8</cell>
+                        <cell>100000</cell>
+                        <cell>166666</cell>
+                        <cell>60000</cell>
+                        <cell>1250-00-0</cell>
+                     </row>
+                     <row>
+                        <cell>500000</cell>
+                        <cell>2500000</cell>
+                        <cell>100000</cell>
+                        <cell>2083-06-8</cell>
+                        <cell>500000</cell>
+                        <cell>1666666</cell>
+                        <cell>150000</cell>
+                        <cell>3125-00 0</cell>
+                        <cell>500000</cell>
+                        <cell>1111111</cell>
+                        <cell>225000</cell>
+                        <cell>4166-13-4</cell>
+                        <cell>500000</cell>
+                        <cell>833333</cell>
+                        <cell>300000</cell>
+                        <cell>6250-00-0</cell>
+                     </row>
+                     <row>
+                        <cell>1000000</cell>
+                        <cell>5000000</cell>
+                        <cell>200000</cell>
+                        <cell>4166-13-4</cell>
+                        <cell>1000000</cell>
+                        <cell>3333333</cell>
+                        <cell>300000</cell>
+                        <cell>6250-00-0</cell>
+                        <cell>1000000</cell>
+                        <cell>2222222</cell>
+                        <cell>450000</cell>
+                        <cell>8333-06-8</cell>
+                        <cell>1000000</cell>
+                        <cell>1666666</cell>
+                        <cell>600000</cell>
+                        <cell>12500-00-0</cell>
+                     </row>
+                     <row>
+                        <cell>2000000</cell>
+                        <cell>10000000</cell>
+                        <cell>400000</cell>
+                        <cell>8333-06-8</cell>
+                        <cell>2000000</cell>
+                        <cell>6666666</cell>
+                        <cell>60000</cell>
+                        <cell>12500-00-0</cell>
+                        <cell>2000000</cell>
+                        <cell>4444444</cell>
+                        <cell>900000</cell>
+                        <cell>16666-13-4</cell>
+                        <cell>2000000</cell>
+                        <cell>3333333</cell>
+                        <cell>1200000</cell>
+                        <cell>25000-00-0</cell>
+                     </row>
+                     <row>
+                        <cell>2500000</cell>
+                        <cell>12500000</cell>
+                        <cell>500000</cell>
+                        <cell>10416-13-4</cell>
+                        <cell>2500000</cell>
+                        <cell>8333333</cell>
+                        <cell>750000</cell>
+                        <cell>15625-00-0</cell>
+                        <cell>2500000</cell>
+                        <cell>5555555</cell>
+                        <cell>1125000</cell>
+                        <cell>20833-06-8</cell>
+                        <cell>2500000</cell>
+                        <cell>4166666</cell>
+                        <cell>1500000</cell>
+                        <cell>31250-00-0</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>A Table to reduce any number of Iriſh Acres into ſtatute Acres, Or any number of ſtatute Acres, into Iriſh Acres: by the eye onely.</head>
+                     <row>
+                        <cell>E</cell>
+                        <cell>I</cell>
+                        <cell>I</cell>
+                        <cell>E</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>616.780.045</cell>
+                        <cell>1</cell>
+                        <cell>1621323529</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>1233.560.090</cell>
+                        <cell>2</cell>
+                        <cell>3242647058</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>1850.340.136</cell>
+                        <cell>3</cell>
+                        <cell>4863970588</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>2467.120.181</cell>
+                        <cell>4</cell>
+                        <cell>6485294117</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>3083900226</cell>
+                        <cell>5</cell>
+                        <cell>8106617647</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>370.0680272</cell>
+                        <cell>6</cell>
+                        <cell>9727941176</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>4317460317</cell>
+                        <cell>7</cell>
+                        <cell>11349264705</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>4934240362</cell>
+                        <cell>8</cell>
+                        <cell>12970588235</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>5551020408</cell>
+                        <cell>9</cell>
+                        <cell>14591911764</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="Parliamentary_order">
+               <opener>
+                  <date>Veneris 4. Martii. 1641.</date>
+               </opener>
+               <p>Ordered by the Lords in Parliament, That this Table with the Preamble thereunto annexed, ſhall be forthwith printed and publiſhed.</p>
+               <closer>
+                  <signed>Jo. Browne Cleric. Parliamentor.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> E. G. <hi>for</hi> I. Wright, <hi>and</hi> I. Franck <hi>1641.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
